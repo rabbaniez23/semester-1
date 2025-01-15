@@ -1,0 +1,4 @@
+Folder ini berisi 
+- tugas praktikum
+- latihan soal
+- soal cspc
