@@ -2,3 +2,5 @@ Folder ini berisi
 - tugas praktikum
 - latihan soal
 - soal cspc
+- tugas masa depan
+- file praktikum
